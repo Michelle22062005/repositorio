@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+
+}
+body{margin: 0;
+padding: 0;
+background-color: rgb(247, 197, 246);
+
+}
+
+h1{
+    font-family: serif;
+    margin: center;
+    text-align: center;
+}
+h2{
+    font-family: serif;
+    margin: center;
+    text-align: center;
+}
+table{
+    font-family: serif;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    width: 90%;
+    box-shadow: 0 0 28px rgba(0,0,0,0.15);
+
+}
+th{
+    background-color: rgb(193, 80, 249);
+    text-transform: uppercase;
+    padding: 10px;
+    border: 2px solid rgb(125, 10, 148);
+}
+td{
+    background-color: #def;
+    padding: 10px;
+    border: 2px solid rgb(125, 10, 148);
+}
